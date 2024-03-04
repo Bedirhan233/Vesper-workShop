@@ -1,4 +1,12 @@
 <details>
+  Hello! I am happy to tell you that I have worked in Vesper with a great team!
+
+  I was one of the programmers and my role was to handle all raycast system in the game. Which was great because I like to make logic for raycast! Beside Raycast I also had responsibility to implement all audio for the game. 
+  It was a bit challenge for me to make fade in and out between music but I learned a lot! 
+  My first goal was to make a function that handles all the raycasts in the game but I realized fast that its getting more complicated then it should be. Thats why i decided to seperate my logic into different functions.
+  One of them was the RaycastGenerator function thats sends raycasts to a side you choose and how many you want to send and how long the raycast is. 
+
+  
   <summary>RaycastGenerator</summary>
   
 ```CS
