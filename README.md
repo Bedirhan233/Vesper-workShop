@@ -63,7 +63,7 @@ Here you can see how my raycast looked like.
 
 ![size](https://github.com/Bedirhan233/Vesper-workShop/assets/114574131/f586583f-0a79-4000-9d14-ea5cf66b7afe)
 
-All colors then red is for other raycast checks for example, help players to jump.
+All colors except red are used for other logic checks. For example, auto-climb to help the player.
 
 
 
