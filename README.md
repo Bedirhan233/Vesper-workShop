@@ -53,7 +53,7 @@ bool RayCastGenerator(float characterSize, Vector2 direction, int totalRaycast)
     return canChangeSize;
 }
 ```
-Here you can see how my raycast looked like. 
+Here you can see how my raycasts looked like. 
 
 
 
